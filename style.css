@@ -1,0 +1,12 @@
+th{
+    cursor: pointer;
+}
+.th-bg{
+    background-color: #c9c9c9 !important;
+}
+.th-bg:hover{
+    background-color: #acacac !important;
+}
+.th-bg:active{
+    background-color: #acacac !important;
+}
