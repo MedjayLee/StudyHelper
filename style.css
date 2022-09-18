@@ -13,6 +13,9 @@ body{
 .th-bg:active{
     background-color: #acacac !important;
 }
+table{
+    border: black solid 1px !important;
+}
 
 .dark-theme-btn::after{
     background-image: url("moon.png");
