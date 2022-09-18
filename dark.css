@@ -1,11 +1,11 @@
 body{
-    background-color: white;
+    background-color: black !important;
 }
 .main-th{
     cursor: pointer;
 }
 .th-bg{
-    background-color: #c9c9c9 !important;
+    background-color: #888888 !important;
 }
 .th-bg:hover{
     background-color: #acacac !important;
