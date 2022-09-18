@@ -24,6 +24,8 @@ document.addEventListener('DOMContentLoaded', () => {
 const darkThemeBtn = document.querySelector("#darkThemeBtn")
 
 darkThemeBtn.addEventListener('click', darkThemeBtnWork)
+darkThemeBtn.addEventListener('touch', darkThemeBtnWork)
+
 function darkThemeBtnWork() {
     changeBtn();
     changeTheme()
