@@ -22,6 +22,11 @@ table td{
     background-color: #303134 !important;
 }
 
+.dark-theme-btn{
+    border-radius: 20px !important;
+    top: 0px;
+    left: 40px;
+}
 .dark-theme-btn::after{
     background-image: url("moon.png");
     background-size: 16px, 16px;
@@ -29,8 +34,7 @@ table td{
     width: 16px;
     height: 16px;
     float: right;
-    margin-left: 5px;
-    margin-top: 5px;
+    margin: 4px 2px;
 }
 .dark-theme-btn-active::after{
     background-image: url("sun.png");
@@ -39,6 +43,5 @@ table td{
     width: 16px;
     height: 16px;
     float: right;
-    margin-left: 5px;
-    margin-top: 5px;
+    margin: 4px 2px;
 }
