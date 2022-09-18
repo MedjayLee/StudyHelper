@@ -1,17 +1,25 @@
 body{
-    background-color: black !important;
+    background-color: #202124 !important;
+    color: white;
 }
 .main-th{
     cursor: pointer;
 }
 .th-bg{
-    background-color: #888888 !important;
+    background-color: #18181a !important;
 }
 .th-bg:hover{
     background-color: #acacac !important;
 }
 .th-bg:active{
     background-color: #acacac !important;
+}
+table{
+    border: #545454 solid 1px !important;
+    color: #aaadb2 !important;
+}
+table td{
+    background-color: #303134 !important;
 }
 
 .dark-theme-btn::after{
