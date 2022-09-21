@@ -28,7 +28,7 @@ table td{
     left: 40px;
 }
 .dark-theme-btn::after{
-    background-image: url("moon.png");
+    background-image: url("..//img/moon.png");
     background-size: 16px, 16px;
     content: "";
     width: 16px;
@@ -37,7 +37,7 @@ table td{
     margin: 4px 2px;
 }
 .dark-theme-btn-active::after{
-    background-image: url("sun.png");
+    background-image: url("..//img/sun.png");
     background-size: 16px, 16px;
     content: "";
     width: 16px;
