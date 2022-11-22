@@ -1,0 +1,15 @@
+.schedule-container{
+    justify-content: center;
+}
+
+
+.card{
+    font-family: 'Comfortaa';
+}
+.weekday{
+    min-width: 25%;
+    text-align: center;
+}
+.dayname{
+    column-span: all;
+}
